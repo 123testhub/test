@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="1"
+https://edge-2.m-fixer.net:8092/stream/inw/bein1true/master.m3u8
