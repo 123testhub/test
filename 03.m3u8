@@ -3,4 +3,5 @@
 #EXT-X-ALLOW-CACHE:YES
 
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="1"
-http://macete.xyz:8080/live/FbH5WVsEqe/6lKuxbHYSs/2122952.m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=1314077&extension=m3u8
+#http://macete.xyz:8080/live/FbH5WVsEqe/6lKuxbHYSs/2122952.m3u8
